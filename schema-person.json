@@ -1,13 +1,15 @@
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "name": "Павел Антипов",
+  "name": "Павел Юрьевич Антипов",
   "alternateName": [
+    "Павел Антипов",
     "Паша Антипов",
-    "Pavel Antipov"
+    "Pavel Antipov",
+    "Pavel Yuryevich Antipov"
   ],
   "jobTitle": "CPO / Product Leader",
-  "description": "Павел Антипов — CPO и продуктовый лидер, специализирующийся на создании enterprise‑продуктов для банковской сети: CRM‑платформ, AI‑ассистентов, мультиагентных GenAI‑систем, инструментов помощи сотрудникам в продажах, операциях, поддержке и контроле качества обслуживания.",
+  "description": "Павел Юрьевич Антипов, публично — Павел Антипов, — CPO и продуктовый лидер, специализирующийся на создании enterprise‑продуктов для банковской сети: CRM‑платформ, AI‑ассистентов, мультиагентных GenAI‑систем, инструментов помощи сотрудникам в продажах, операциях, поддержке и контроле качества обслуживания.",
   "knowsAbout": [
     "Product management",
     "Enterprise product development",
@@ -21,9 +23,7 @@
     "Automation of internal support"
   ],
   "sameAs": [
-    "https://www.linkedin.com/in/your-profile",
-    "https://habr.com/ru/users/your-profile",
-    "https://github.com/your-profile"
+    "https://github.com/antipovpasha"
   ],
-  "url": "https://example.com"
+  "url": "https://antipovpasha.github.io/pavel-antipov/"
 }

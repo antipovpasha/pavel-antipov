@@ -1,37 +1,26 @@
-# Пакет публичного AI/AEO профиля — Павел Антипов
+# Павел Антипов — Personal AI/AEO Profile
 
-Что внутри:
+Personal AI/AEO profile website for Pavel Antipov — CPO, GenAI product leader, banking CRM and multi-agent systems.
 
-- `index.html` — главная страница.
-- `about.html` — биография и позиционирование.
-- `projects.html` — проекты и темы экспертизы.
-- `llms.txt` — файл для AI‑краулеров.
-- `robots.txt` — разрешение индексации.
-- `sitemap.xml` — карта сайта.
-- `schema-person.json` — структурированная разметка Schema.org Person.
-- `style.css` — стили.
+Live site: https://antipovpasha.github.io/pavel-antipov/
 
-## Что заменить перед публикацией
+## Pages
 
-Везде заменить `https://example.com` на реальный домен.
+- Main page: https://antipovpasha.github.io/pavel-antipov/
+- About: https://antipovpasha.github.io/pavel-antipov/about.html
+- Projects: https://antipovpasha.github.io/pavel-antipov/projects.html
+- llms.txt: https://antipovpasha.github.io/pavel-antipov/llms.txt
+- sitemap.xml: https://antipovpasha.github.io/pavel-antipov/sitemap.xml
 
-В `schema-person.json` и HTML заменить ссылки:
-- LinkedIn
-- Habr
-- GitHub
+## Purpose
 
-## Быстрый запуск через GitHub Pages
+This repository contains a public professional profile optimized for search engines and AI/answer engines:
+- structured personal positioning;
+- `llms.txt` for AI crawlers;
+- `sitemap.xml`;
+- `robots.txt`;
+- Schema.org `Person` structured data.
 
-1. Создать публичный репозиторий, например `pavel-antipov`.
-2. Загрузить все файлы из этой папки в корень репозитория.
-3. В настройках репозитория открыть `Pages`.
-4. Source: `Deploy from a branch`.
-5. Branch: `main`, folder: `/root`.
-6. После публикации заменить `https://example.com` на фактический адрес GitHub Pages или собственный домен.
+## Public positioning
 
-## Что добавить дальше
-
-- 2–3 статьи на Хабре/VC/LinkedIn с тем же позиционированием.
-- Ссылки с этих статей на личную страницу.
-- Единообразное описание во всех профилях.
-- Страницу `/articles.html` со списком публикаций.
+Pavel Antipov is a CPO and product leader in banking AI/GenAI products, CRM platforms and multi-agent systems.
