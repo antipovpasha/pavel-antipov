@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <radialGradient id="g" cx="25%" cy="15%" r="85%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="45%" stop-color="#172554"/>
+      <stop offset="100%" stop-color="#0b0f17"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#g)"/>
+  <circle cx="386" cy="116" r="58" fill="#7dd3fc" opacity=".22"/>
+  <text x="256" y="318"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="176"
+        font-weight="800"
+        fill="#eef2ff">ПА</text>
+  <path d="M116 372h280" stroke="#7dd3fc" stroke-width="22" stroke-linecap="round" opacity=".9"/>
+</svg>

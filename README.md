@@ -29,3 +29,7 @@ Live site: https://antipovpasha.github.io/pavel-antipov/
 - Павел Антипов BellAI
 - Павел Антипов CX World Awards
 - Pavel Yuryevich Antipov CPO Sber
+
+## Favicon
+
+Added favicon files: `favicon.ico`, `favicon.svg`, `favicon-192.png`, `favicon-512.png`.
