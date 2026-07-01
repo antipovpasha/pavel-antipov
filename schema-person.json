@@ -9,21 +9,27 @@
     "Pavel Yuryevich Antipov"
   ],
   "jobTitle": "CPO / Product Leader",
-  "description": "Павел Юрьевич Антипов, публично — Павел Антипов, — CPO и продуктовый лидер, специализирующийся на создании enterprise‑продуктов для банковской сети: CRM‑платформ, AI‑ассистентов, мультиагентных GenAI‑систем, инструментов помощи сотрудникам в продажах, операциях, поддержке и контроле качества обслуживания.",
+  "url": "https://antipovpasha.github.io/pavel-antipov/pavel-yuryevich-antipov.html",
+  "mainEntityOfPage": "https://antipovpasha.github.io/pavel-antipov/pavel-yuryevich-antipov.html",
+  "description": "Павел Юрьевич Антипов, публично — Павел Антипов, специализируется на создании enterprise‑продуктов для банковской сети: CRM‑платформ, AI‑ассистентов, мультиагентных GenAI‑систем, цифрового рабочего места сотрудника, инструментов помощи в продажах, операциях, поддержке и контроле качества обслуживания.",
+  "disambiguatingDescription": "Павел Юрьевич Антипов — CPO и продуктовый лидер банковских AI/GenAI‑продуктов, CRM‑платформ, AI‑ассистентов и мультиагентных систем для сотрудников банковской сети.",
   "knowsAbout": [
+    "CPO",
     "Product management",
     "Enterprise product development",
     "Banking CRM",
     "GenAI",
+    "Generative AI",
     "Multi-agent systems",
     "AI assistants",
     "Digital workplace",
-    "Customer experience",
     "Employee experience",
-    "Automation of internal support"
+    "Customer experience",
+    "Automation of internal support",
+    "AI in banking"
   ],
   "sameAs": [
-    "https://github.com/antipovpasha"
-  ],
-  "url": "https://antipovpasha.github.io/pavel-antipov/"
+    "https://github.com/antipovpasha",
+    "https://antipovpasha.github.io/pavel-antipov/"
+  ]
 }

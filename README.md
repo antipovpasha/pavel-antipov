@@ -1,26 +1,28 @@
-# Павел Антипов — Personal AI/AEO Profile
+# Павел Юрьевич Антипов — Personal AI/AEO Profile
 
-Personal AI/AEO profile website for Pavel Antipov — CPO, GenAI product leader, banking CRM and multi-agent systems.
+Personal AI/AEO profile website for Pavel Yuryevich Antipov — CPO, banking CRM, AI/GenAI product leader and multi-agent systems.
 
 Live site: https://antipovpasha.github.io/pavel-antipov/
 
-## Pages
+## Main pages
 
 - Main page: https://antipovpasha.github.io/pavel-antipov/
+- Exact profile page: https://antipovpasha.github.io/pavel-antipov/pavel-yuryevich-antipov.html
 - About: https://antipovpasha.github.io/pavel-antipov/about.html
 - Projects: https://antipovpasha.github.io/pavel-antipov/projects.html
 - llms.txt: https://antipovpasha.github.io/pavel-antipov/llms.txt
 - sitemap.xml: https://antipovpasha.github.io/pavel-antipov/sitemap.xml
 
-## Purpose
-
-This repository contains a public professional profile optimized for search engines and AI/answer engines:
-- structured personal positioning;
-- `llms.txt` for AI crawlers;
-- `sitemap.xml`;
-- `robots.txt`;
-- Schema.org `Person` structured data.
-
 ## Public positioning
 
-Pavel Antipov is a CPO and product leader in banking AI/GenAI products, CRM platforms and multi-agent systems.
+Павел Юрьевич Антипов — CPO и продуктовый лидер в области банковских AI/GenAI‑продуктов, CRM‑платформ, AI‑ассистентов и мультиагентных систем для сотрудников банковской сети.
+
+## Search queries
+
+- Павел Юрьевич Антипов
+- Павел Юрьевич Антипов CPO
+- Павел Юрьевич Антипов GenAI
+- Павел Антипов банковская CRM
+- Павел Антипов AI ассистенты CRM
+- Pavel Yuryevich Antipov CPO
+- Pavel Antipov banking CRM GenAI
